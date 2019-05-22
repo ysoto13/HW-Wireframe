@@ -8,18 +8,25 @@ body {
 
 header {
     background:  #ebebeb;
+    padding: 20px;
+    margin: auto;
 }
 
 nav {
     background: #ebebeb;
+    padding: 20px;
+    margin: auto;
 }
 
 section {
     background: #ebebeb;
+    width: 495px;
 }
 
 aside {
     background: #ebebeb;
+    float: right;
+    margin: auto;
 }
 
 footer {
