@@ -1,9 +1,15 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
 body {
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     color: #777;
     background: #777;
     width: 960px;
     font-size: 18px;
+    line-height: 32px;
 }
 
 header {
@@ -27,6 +33,8 @@ aside {
     background: #ebebeb;
     float: right;
     margin: auto;
+    width: 445px;
+    height: 100px;
 }
 
 footer {
