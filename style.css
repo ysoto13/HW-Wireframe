@@ -5,7 +5,7 @@
 
 body {
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-    color: #777;
+    /* color: #777; */
     background: #777;
     width: 960px;
     font-size: 18px;
@@ -41,8 +41,9 @@ aside {
 }
 
 article {
-    margin: 75px;
-    background: #777;
+    margin: 75px auto;
+    background-color: #777;
+    color: white;
 }
 
 
@@ -51,10 +52,4 @@ footer {
     height: 100px;
     margin-bottom: 20px;
     padding: 20px;
-}
-
-h1 {
-    color: #777;
-    background: #ebebeb;
-    padding: 15px;
 }
