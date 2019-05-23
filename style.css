@@ -16,12 +16,14 @@ header {
     background:  #ebebeb;
     padding: 20px;
     margin-bottom: 20px;
+    height: 100px;
 }
 
 nav {
     background: #ebebeb;
     padding: 20px;
     margin-bottom: 20px;
+    height: 100px;
 }
 
 section {
@@ -39,6 +41,7 @@ aside {
 
 footer {
     background: #ebebeb;
+    height: 100px;
 }
 
 h1 {
