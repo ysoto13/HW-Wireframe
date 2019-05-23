@@ -30,6 +30,7 @@ nav {
 section {
     background: #ebebeb;
     width: 480px;
+    height: 195px;
 }
 
 aside {
@@ -37,7 +38,7 @@ aside {
     float: right;
     margin: auto;
     width: 480px;
-    height: 233px;
+    height: 195px;
 }
 
 article {
