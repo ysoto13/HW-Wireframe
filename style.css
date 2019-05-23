@@ -11,27 +11,28 @@ body {
     font-size: 18px;
     line-height: 32px;
     margin: auto;
+    padding: 20px;
 }
 
 header {
     background:  #ebebeb;
-    padding: 20px;
     margin: 20px 0px 20px 0px;
     height: 100px;
+    padding: 35px;
 }
 
 nav {
     background: #ebebeb;
-    padding: 20px;
     margin-bottom: 20px;
     height: 100px;
+    padding: 35px;
 }
 
 section {
     background: #ebebeb;
     width: 480px;
     height: 195px;
-    padding: 20px;
+    padding: 35px;
 }
 
 aside {
@@ -40,19 +41,20 @@ aside {
     margin: auto;
     width: 480px;
     height: 195px;
-    padding: 20px;
+    padding: 35px;
 }
 
 article {
     margin: 75px auto;
     background-color: #777;
     color: white;
+    padding: 35px;
 }
 
 
 footer {
     background: #ebebeb;
     height: 100px;
-    margin: 20px 0px; 20px 0px;
-    padding: 20px;
+    margin: 20px 0px 20px, 0px;
+    padding: 35px;
 }
