@@ -53,6 +53,6 @@ article {
 footer {
     background: #ebebeb;
     height: 100px;
-    margin-bottom: 20px;
+    margin: 20px 0px; 20px 0px;
     padding: 20px;
 }
