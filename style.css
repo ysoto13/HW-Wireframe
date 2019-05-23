@@ -40,6 +40,12 @@ aside {
     height: 233px;
 }
 
+article {
+    margin: 25px;
+    background: #777;
+}
+
+
 footer {
     background: #ebebeb;
     height: 100px;
