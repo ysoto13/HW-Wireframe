@@ -38,7 +38,7 @@ section {
 aside {
     background: #ebebeb;
     float: right;
-    margin: auto;
+    margin: 0px 0px 20px 0px;
     width: 480px;
     height: 195px;
     padding: 35px;
@@ -49,12 +49,13 @@ article {
     background-color: #777;
     color: white;
     padding: 35px;
+    margin: 0px 0px 20px 0px;
 }
 
 
 footer {
     background: #ebebeb;
     height: 100px;
-    margin: 20px 0px 20px, 0px;
+    margin-top: 20px;
     padding: 35px;
 }
