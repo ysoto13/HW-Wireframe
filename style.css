@@ -66,8 +66,5 @@ footer {
 h1 {
     /* change color to gray; look for color */
     color: yellow;
-}
-
-.box {
-
+    background-color: #ebebeb;
 }
