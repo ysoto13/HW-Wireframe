@@ -64,7 +64,6 @@ footer {
 }
 
 h1 {
-    /* change color to gray; look for color */
-    color: yellow;
+    color: #777;
     background-color: #ebebeb;
 }
